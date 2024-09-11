@@ -1,18 +1,6 @@
-## Getting Started
+## Projeto Contador
+Este projeto faz parte do Desafio Controle de Fluxo da Digital Innovation One (DIO). O objetivo é praticar conceitos de controle de fluxo em Java, utilizando estruturas como o for e tratamento de exceções personalizadas.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Funcionalidade
+O programa recebe dois números inteiros como entrada via terminal e imprime, de forma incrementada, a quantidade de números entre esses dois valores. Caso o primeiro número seja maior que o segundo, o sistema lançará uma exceção personalizada (ParametrosInvalidosException).
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
