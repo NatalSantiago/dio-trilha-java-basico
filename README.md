@@ -20,6 +20,7 @@ Cada projeto possui seu próprio arquivo `README.md` explicando em detalhes a fu
 
 ## Requisitos
   Java 8 ou superior.
+  
   Uma IDE de sua preferência (como Visual Studio Code) ou linha de comando para compilar e executar o código.
   
 ## Licença
