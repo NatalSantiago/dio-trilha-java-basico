@@ -39,11 +39,10 @@ Passo a passo:
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
 
 ## Autor
-
 Natal Santiago
 
-[LinkedIn](https://www.linkedin.com/in/natal-santiago-986680257/)
+LinkedIn: https://www.linkedin.com/in/natal-santiago-986680257/
 
 ## Agradecimentos
 
-Agradeço à Digital Innovation One pela oportunidade de aprender e evoluir através de desafios práticos.
+Agradeço à [Digital Innovation One](https://www.dio.me/en) pela oportunidade de aprender e evoluir através de desafios práticos.
